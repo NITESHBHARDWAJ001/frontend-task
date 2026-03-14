@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 640" role="img" aria-label="Preview scene two">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1d33"/>
+      <stop offset="45%" stop-color="#2f3f77"/>
+      <stop offset="100%" stop-color="#111420"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="72%" cy="18%" r="22%">
+      <stop offset="0%" stop-color="#d8e6ff"/>
+      <stop offset="100%" stop-color="#a9bbff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="420" height="640" fill="url(#bg2)"/>
+  <circle cx="306" cy="102" r="90" fill="url(#moon)"/>
+  <path d="M0 520c76-44 136-58 194-44 66 16 122-2 226-80V640H0z" fill="#080d19"/>
+  <path d="M168 610l38-178 26 2 40 176z" fill="#11192a"/>
+  <circle cx="218" cy="406" r="30" fill="#141f33"/>
+  <path d="M72 356c34-76 58-136 72-182 42 46 80 92 116 142-80-4-136 8-188 40z" fill="#3a5da0" opacity="0.42"/>
+  <path d="M212 330l74-142 48 176z" fill="#4a74c6" opacity="0.28"/>
+</svg>

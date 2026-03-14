@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 640" role="img" aria-label="Preview scene one">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a8f3ea"/>
+      <stop offset="100%" stop-color="#234457"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b6ffff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#8ce6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="640" fill="url(#sky)"/>
+  <ellipse cx="180" cy="130" rx="240" ry="120" fill="url(#mist)"/>
+  <path d="M0 510c55-60 104-84 168-78 70 7 105-6 146-52 24-28 48-64 106-94V640H0z" fill="#162431" opacity="0.88"/>
+  <path d="M122 612l48-186 48 186z" fill="#121a26"/>
+  <rect x="154" y="418" width="32" height="96" fill="#111821"/>
+  <circle cx="170" cy="396" r="28" fill="#16202b"/>
+  <path d="M98 346l38-160 22 6-18 120z" fill="#2a5565" opacity="0.75"/>
+  <path d="M312 344l-38-112 18-24 38 130z" fill="#24495b" opacity="0.7"/>
+</svg>
